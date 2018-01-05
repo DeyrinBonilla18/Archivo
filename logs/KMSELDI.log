@@ -1,0 +1,50 @@
+16:29:27:984 2016.10.07 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Home : Core : 6.3 : 14393
+
+16:29:28:007 Loading SECOH-QAD...
+16:29:28:017 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+16:29:28:017 Using host Forward: 10.128.68.29:1688
+16:29:28:017 Using host Local: 127.28.137.98:1688
+16:29:28:017 Using method: SECOH-QAD
+16:29:28:039 Time Start: 7/10/2016 16:29:27
+16:29:28:042 Checking Internet Connection...
+16:29:28:217 Windows Detected: Windows 10 Home : Core : 6.3 : 14393
+16:29:28:220 Using host Forward: 10.128.68.29:1688
+16:29:28:220 Using host Local: 127.28.137.98:1688
+16:29:28:220 Using method: SECOH-QAD
+16:29:28:238 Opening Firewall Port...
+16:29:28:387 Opening Firewall App...
+16:29:28:615 Internet Connection Detected
+16:29:28:617 Synchronizing Time...
+16:29:28:634 KMSEmulator Port: 1688
+16:29:28:638 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+16:29:28:661 KMSEmulator running port: 1688
+17:29:37:715 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+17:29:37:719 Time synchronized
+17:29:37:721 Office 2016 Skipped
+17:29:37:723 Office 2010 Skipped
+17:29:37:723 Loading OEM Key Dumper...
+17:29:37:731 Error: No se puede iniciar el servicio W32Time en el equipo '.'. ᜀ
+17:29:37:731 Key found on MSDM: -D69QQ
+17:29:39:342 Found Office 2013 Products: 1
+17:29:39:343 Installing Key: -D69QQ
+17:29:39:349 Name: Office 15, OfficeProPlusVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 256282
+LicenseStatus: 1
+PartialProductKey: GVGXT
+GenuineStatus: 0
+
+17:29:40:563 InstallProductKey -D69QQ 0
+17:29:40:563 DisableKeyManagementServiceHostCaching 0
+17:29:40:567 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+17:29:40:567 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+17:29:40:569 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+17:29:40:570 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+17:29:40:570 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+17:29:40:570 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+17:29:40:779 RefreshLicenseStatus 0
+17:29:40:800 OEM Key Found: Version Windows Skipped

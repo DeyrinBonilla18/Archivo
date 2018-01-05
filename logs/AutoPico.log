@@ -1,0 +1,232 @@
+17:55:45:364 2017.05.10 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 10/05/2017 05:55:45 p.m.
+
+17:55:45:364 Checking Internet Connection...
+17:55:45:574 Internet Connection Detected
+17:55:45:576 Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601
+17:55:45:578 Synchronizing Time...
+17:55:45:588 Using host Local: 127.12.234.92:1688
+17:55:45:836 Opening Firewall Port...
+17:55:46:001 Opening Firewall App...
+17:55:44:255 Time synchronized
+17:55:44:391 KMSEmulator Port: 1688
+17:55:44:395 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+17:55:44:396 Get Registry : SYSTEM\CurrentControlSet\Services\osppsvc:Start
+17:55:44:412 KMSEmulator running port: 1688
+17:55:44:461 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+17:55:44:464 Loading OEM Key Dumper...
+17:55:44:466 Key found on MSDM: -XTPH3
+17:55:44:596 Office 2010 Skipped
+17:55:44:608 Office 2013 Skipped
+17:55:47:173 Found Office 2016 Products: 2
+17:55:47:176 Name: Office 16, Office16ProPlusR_Grace edition
+Description: Office 16, RETAIL(Grace) channel
+GracePeriodRemaining: 7200
+LicenseStatus: 2
+PartialProductKey: BTDRB
+
+17:55:47:187 Folder Found: C:\Users\Deyrin\AppData\Local\Temp\Rar$EXa0.391\KMSpico\cert\kmscert2016\ProPlus
+17:55:47:188 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 43189
+LicenseStatus: 2
+PartialProductKey: WFG99
+
+17:55:47:189 Converting Office 2016 products: 1
+17:55:47:233 DisableKeyManagementServiceHostCaching 0
+17:55:47:238 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+17:55:47:239 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+17:55:47:240 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+17:55:47:240 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+17:55:47:240 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+17:55:47:241 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+17:55:47:241 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+17:55:47:241 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+17:55:47:243 Folder Found: C:\Users\Deyrin\AppData\Local\Temp\Rar$EXa0.391\KMSpico\cert\kmscert2016\ProPlus
+17:55:47:243 Converting Office 16, Office16ProPlusR_Grace edition ...
+17:55:47:255 Installing License 1 for :ProPlus
+17:55:47:341 InstallLicense 0
+17:55:47:341 Installing License 2 for :ProPlus
+17:55:47:432 InstallLicense 0
+17:55:47:433 Installing License 3 for :ProPlus
+17:55:47:463 InstallLicense 0
+17:55:47:464 Installing License 4 for :ProPlus
+17:55:47:495 InstallLicense 0
+17:55:47:495 Installing License 5 for :ProPlus
+17:55:47:566 InstallLicense 0
+17:55:47:567 Installing License 6 for :ProPlus
+17:55:47:597 InstallLicense 0
+17:55:47:603 Installing License 7 for :ProPlus
+17:55:47:729 Installing Key: -XTPH3
+17:55:47:893 InstallLicense 0
+17:55:47:897 Installing .reg files
+17:55:47:898 Installing License 8 for :ProPlus
+17:55:47:952 InstallLicense 0
+17:55:47:953 Installing License 9 for :ProPlus
+17:55:47:992 InstallLicense 0
+17:55:47:992 Installing License 10 for :ProPlus
+17:55:48:029 InstallLicense 0
+17:55:48:030 Installing .reg files
+17:55:48:032 Installing License 11 for :ProPlus
+17:55:48:069 InstallLicense 0
+17:55:48:070 Installing License 12 for :ProPlus
+17:55:48:110 InstallLicense 0
+17:55:48:111 Installing License 13 for :ProPlus
+17:55:48:149 InstallLicense 0
+17:55:48:149 Installing License 14 for :ProPlus
+17:55:48:186 InstallLicense 0
+17:55:48:190 Installing License 15 for :ProPlus
+17:55:48:228 InstallLicense 0
+17:55:48:229 Installing License 16 for :ProPlus
+17:55:48:269 InstallLicense 0
+17:55:48:270 Installing License 17 for :ProPlus
+17:55:48:313 InstallLicense 0
+17:55:48:313 Installing License 18 for :ProPlus
+17:55:48:357 InstallLicense 0
+17:55:48:358 Installing License 19 for :ProPlus
+17:55:48:399 InstallLicense 0
+17:55:48:400 Installing License 20 for :ProPlus
+17:55:48:436 InstallLicense 0
+17:55:48:437 Installing License 21 for :ProPlus
+17:55:48:477 InstallLicense 0
+17:55:48:478 Installing License 22 for :ProPlus
+17:55:48:517 InstallLicense 0
+17:55:48:517 Installing License 23 for :ProPlus
+17:55:48:559 InstallLicense 0
+17:55:48:559 Installing License 24 for :ProPlus
+17:55:48:596 InstallLicense 0
+17:55:48:597 Installing License 25 for :ProPlus
+17:55:48:605 Error: C004F050 InstallProductKey
+17:55:48:637 InstallLicense 0
+17:55:48:637 Installing License 26 for :ProPlus
+17:55:48:676 InstallLicense 0
+17:55:48:677 Installing License 27 for :ProPlus
+17:55:48:722 InstallLicense 0
+17:55:48:723 Installing License 28 for :ProPlus
+17:55:48:760 InstallLicense 0
+17:55:48:763 Installing License 29 for :ProPlus
+17:55:48:801 InstallLicense 0
+17:55:48:802 Installing License 30 for :ProPlus
+17:55:48:839 InstallLicense 0
+17:55:48:840 Installing License 31 for :ProPlus
+17:55:48:881 InstallLicense 0
+17:55:48:882 Installing License 32 for :ProPlus
+17:55:48:918 InstallLicense 0
+17:55:48:919 Installing License 33 for :ProPlus
+17:55:48:957 InstallLicense 0
+17:55:48:958 Installing License 34 for :ProPlus
+17:55:48:997 InstallLicense 0
+17:55:48:998 Installing License 35 for :ProPlus
+17:55:49:040 InstallLicense 0
+17:55:49:040 Installing License 36 for :ProPlus
+17:55:49:077 InstallLicense 0
+17:55:49:078 Installing License 37 for :ProPlus
+17:55:49:119 InstallLicense 0
+17:55:49:119 Installing License 38 for :ProPlus
+17:55:49:159 InstallLicense 0
+17:55:49:160 Installing License 39 for :ProPlus
+17:55:49:203 InstallLicense 0
+17:55:49:203 Installing License 40 for :ProPlus
+17:55:49:241 InstallLicense 0
+17:55:49:241 Installing License 41 for :ProPlus
+17:55:49:305 InstallLicense 0
+17:55:49:306 Installing License 42 for :ProPlus
+17:55:49:343 InstallLicense 0
+17:55:49:344 Installing License 43 for :ProPlus
+17:55:49:423 InstallLicense 0
+17:55:49:424 Installing License 44 for :ProPlus
+17:55:49:434 Found Windows Products: 1
+17:55:49:438 Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 2C9T3
+
+17:55:49:439 Version Windows Skipped
+17:55:49:461 InstallLicense 0
+17:55:49:462 Installing License 45 for :ProPlus
+17:55:49:500 InstallLicense 0
+17:55:49:501 Installing License 46 for :ProPlus
+17:55:49:539 InstallLicense 0
+17:55:49:540 Installing License 47 for :ProPlus
+17:55:49:581 InstallLicense 0
+17:55:49:582 Installing License 48 for :ProPlus
+17:55:49:618 InstallLicense 0
+17:55:49:619 Installing License 49 for :ProPlus
+17:55:49:658 InstallLicense 0
+17:55:49:658 Installing License 50 for :ProPlus
+17:55:49:698 InstallLicense 0
+17:55:49:698 Installing License 51 for :ProPlus
+17:55:49:736 InstallLicense 0
+17:55:49:737 Installing License 52 for :ProPlus
+17:55:49:776 InstallLicense 0
+17:55:49:777 Installing License 53 for :ProPlus
+17:55:49:817 InstallLicense 0
+17:55:49:818 Installing License 54 for :ProPlus
+17:55:49:852 InstallLicense 0
+17:55:49:852 Installing License 55 for :ProPlus
+17:55:49:891 InstallLicense 0
+17:55:49:892 Installing License 56 for :ProPlus
+17:55:49:929 InstallLicense 0
+17:55:49:930 Installing License 57 for :ProPlus
+17:55:49:967 InstallLicense 0
+17:55:49:967 Installing License 58 for :ProPlus
+17:55:50:003 InstallLicense 0
+17:55:50:003 Installing License 59 for :ProPlus
+17:55:50:042 InstallLicense 0
+17:55:50:043 Installing License 60 for :ProPlus
+17:55:50:084 InstallLicense 0
+17:55:50:086 Installing .reg files
+17:55:50:114 Installing Key: -WFG99
+17:55:50:520 InstallProductKey -WFG99 0
+17:55:50:740 Converting: Office 16, Office16ProPlusR_Grace edition
+17:55:50:794 BTDRB UninstallProductKey 0
+17:55:50:943 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+17:55:51:835 Found Office 2016 Products: 1
+17:55:51:836 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 43189
+LicenseStatus: 2
+PartialProductKey: WFG99
+
+17:55:51:993 DisableKeyManagementServiceHostCaching 0
+17:55:51:993 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+17:55:51:993 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+17:55:51:994 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+17:55:51:994 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+17:55:51:994 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+17:55:51:995 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+17:55:51:995 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+17:55:51:995 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+17:55:52:000 Activating Office 2016
+17:55:52:152 DisableKeyManagementServiceHostCaching 0
+17:55:52:153 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+17:55:52:153 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+17:55:52:153 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+17:55:52:153 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+17:55:52:154 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+17:55:52:154 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+17:55:52:154 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+17:55:52:154 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+17:55:53:355 Connection accepted from [::ffff:127.0.0.1]:2828
+17:55:53:877 Received request: v4, AppID: 0ff1ce15-a989-479d-af46-f275c6370663, Machine: Deyrin-PC
+17:55:53:952 Sending response: v4, PID: 05426-00206-234-262519-03-3082-9200.0000-0312016
+17:55:54:017 Connection closed
+17:55:54:497 Office 16, Office16ProPlusVL_KMS_Client edition Activated 0
+17:55:54:685 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+17:55:54:685 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+17:55:54:686 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+17:55:54:686 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+17:55:54:687 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+17:55:54:689 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+17:55:54:690 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+17:55:54:691 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+17:55:54:707 ClearKeyManagementServiceMachine 0
+17:55:54:730 ClearKeyManagementServicePort 0
+17:55:54:734 Closing Firewall Port...
+17:55:54:983 Closing Firewall App...
+17:55:55:273 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+17:55:57:009 Time Finish: 10/05/2017 05:55:57 p.m.
